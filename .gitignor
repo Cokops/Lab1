@@ -2,3 +2,4 @@ venv/
 *.log
 data/
 !data/important.csv
+ignorethatshit.py
